@@ -1,0 +1,28 @@
+{
+  "name": "jquery-class-svg",
+  "title": "jQuery plugin manipulate SVG class",
+  "description": "jQuery plugin manipulate SVG class",
+  "keywords": [
+    "jquery",
+    "svg"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "sugarshin",
+    "email": "shinsugrr@gmail.com",
+    "url": "https://github.com/sugarshin"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/sugarshin"
+    }
+  ],
+  "bugs": "https://github.com/sugarshin/jquery-class-svg/issues",
+  "homepage": "https://github.com/sugarshin",
+  "docs": "https://github.com/sugarshin/jquery-class-svg#readme",
+  "download": "https://github.com/sugarshin/jquery-class-svg/archive/master.zip",
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}
